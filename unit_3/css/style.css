@@ -1,0 +1,86 @@
+#slogan {
+	color: #29484D;
+	font-style: oblique;
+}
+
+ul{
+	text-align: center;
+	list-style-type:none
+}
+body {
+	background: #FFF;
+	color: #A9A9A9;
+	font-family: "Garamond";
+	font-size: 28px;
+}
+
+h1{
+	text-align: left;
+	color: #29484D;
+	text-transform: uppercase;
+	font-family: "Garamond";
+	font-size: 100px;
+}
+
+h2{
+	color: #29484D;
+	text-transform: uppercase;
+	font-family: "Garamond";
+	font-weight; 700;
+	text-align: center;
+	font-size: 40px;
+
+}
+
+div.imagecontainer{
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	text-align: center;
+	overflow: auto;
+
+}
+
+div.imagecontainer img{
+	width:50%;
+	;
+	float:left;
+}
+
+.gallerydiv{
+	padding: 10px; width:100%;"
+}
+
+.galleryimg{
+	width: 22%;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
