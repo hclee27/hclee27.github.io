@@ -1,0 +1,39 @@
+#one {
+	background: red;
+	color: white;
+	text-align: center;
+	width: 12em;
+	float: left;
+}
+
+#two {
+	background: orange;
+	color: white;
+	text-align: center;
+	width: 12em;
+	float: left;
+}
+
+#three {
+	background: yellow;
+	color: white;
+	text-align: center;
+	width: 12em;
+	float: left;
+}
+
+#four {
+	background: green;
+	color: white;
+	text-align: center;
+	width: 12em;
+	float: left;
+}
+
+#five {
+	background: blue;
+	color: white;
+	text-align: center;
+	width: 12em;
+	float: left;
+}
